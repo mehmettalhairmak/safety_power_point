@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "753585025268",
+    "project_id": "safety-power-point-7b99d",
+    "storage_bucket": "safety-power-point-7b99d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753585025268:android:2bdd4396adccfe7709eea1",
+        "android_client_info": {
+          "package_name": "com.dyl.safety_power_point"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753585025268-49kkneme5m07fb6pa3lr3dnram4ed44a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dyl.safety_power_point",
+            "certificate_hash": "1e6982b4f0bc576ebce60cf640937b2d80c3e498"
+          }
+        },
+        {
+          "client_id": "753585025268-icjh6kno18hcma6v0cr3ne4an5eicqv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiw6eY6i3Oysu1Rw6nxCUEyY0CvtzaEdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753585025268-icjh6kno18hcma6v0cr3ne4an5eicqv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
